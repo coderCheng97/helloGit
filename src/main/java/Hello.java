@@ -15,6 +15,7 @@ public class Hello {
         System.out.println("测试SSH第四次修改");
         System.out.println("测试SSH第四次修改");
 
+        System.out.println("新clone修改后的文件");
 
     }
 }
